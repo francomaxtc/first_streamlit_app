@@ -1,7 +1,11 @@
 import streamlit
 
-streamlit.title('Buenas buenas')
-streamlit.header('Esta es una prueba')
-streamlit.text('No se ni para que sirve esto')
-streamlit.text('Pero ta bonito')
-streamlit.text('Pa mi circo')
+streamlit.title('My Parents New Healthy Diner')
+
+streamlit.header('Breakfast Favorites')
+streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
